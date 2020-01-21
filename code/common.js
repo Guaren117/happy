@@ -1,3 +1,3 @@
 function add() {
-    alert(666)
+    alert(555)
 }
